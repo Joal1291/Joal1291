@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 👋
+![gif](https://github.com/Joal1291/Joal1291/blob/main/giphy.gif)
 <!--
 **Joal1291/Joal1291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
