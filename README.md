@@ -2,7 +2,9 @@
 <p align="center">
   <img src="https://github.com/Joal1291/Joal1291/blob/main/ALBERT%20Jordan.gif" alt="Sublime's custom image"/>
 </p>
+<!-- <p style="color:white">Yes I really love matrix that's one of my fav triolgy of all time</p> -->
 
+  
 <!--
 **Joal1291/Joal1291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
