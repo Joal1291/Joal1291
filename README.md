@@ -1,6 +1,6 @@
 ###
 <p align="center">
-  <img src="https://github.com/Joal1291/Joal1291/blob/main/ALBERT%20Jordan.gif" alt="Sublime's custom image"/>
+  <img src="https://github.com/Joal1291/Joal1291/blob/main/2.gif" alt="Sublime's custom image" >
 </p>
 <!-- <p style="color:white">Yes I really love matrix that's one of my fav triolgy of all time</p> -->
 
