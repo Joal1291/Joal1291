@@ -1,4 +1,4 @@
-### 👋
+###
 <p align="center">
   <img src="https://github.com/Joal1291/Joal1291/blob/main/ALBERT%20Jordan.gif" alt="Sublime's custom image"/>
 </p>
