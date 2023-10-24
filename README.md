@@ -1,5 +1,8 @@
 ### 👋
-![gif](https://github.com/Joal1291/Joal1291/blob/main/giphy.gif)
+<p align="center">
+  <img src="https://github.com/Joal1291/Joal1291/blob/main/ALBERT%20Jordan.gif" alt="Sublime's custom image"/>
+</p>
+
 <!--
 **Joal1291/Joal1291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
