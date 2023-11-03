@@ -24,5 +24,5 @@
 # Languages, FrameWork, Database
 <br>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,,css,,scss,,tailwind,,javascript,,py,,react,,next,,,,,,nodejs,,supabase,,mongodb" /><br>
+<img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,javascript,py,react,next,nodejs,supabase,mongodb" /><br>
 </p>
