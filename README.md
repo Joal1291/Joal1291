@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=discord" />
   <img src="https://skillicons.dev/icons?i=," />
-  <a href="https://www.linkedin.com/in/jordan-albert1291/"><img src="https://skillicons.dev/icons?i=linkedin" /></a><br>
+  <a href="https://www.linkedin.com/in/jordan-albert1291/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a><br>
 </p>
 
 # Environement 
