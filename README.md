@@ -21,7 +21,7 @@
  <img src="" alt="Sublime's custom image" > -->
 </p>
 
-# Languages, FrameWork, Database
+# Languages, FrameWorks, Databases
 <br>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,javascript,py,react,next,nodejs,supabase,mongodb" /><br>
