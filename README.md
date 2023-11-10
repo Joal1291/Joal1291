@@ -7,7 +7,17 @@
 # Languages, FrameWorks, Databases
 <br>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,javascript,py,react,next,nodejs,supabase,mongodb" /><br>
+<a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a><br>
+<a href="https://developer.mozilla.org/fr/docs/Web/CSS/Reference" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a><br>
+<a href="https://sass-lang.com/documentation/" target="_blank"><img src="https://skillicons.dev/icons?i=scss" /></a><br>
+<a href="https://v2.tailwindcss.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" /></a><br>
+<a href="https://devdocs.io/javascript/" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" /></a><br>
+<a href="https://docs.python.org/3.12/" target="_blank"><img src="https://skillicons.dev/icons?i=py" /></a><br>
+<a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a><br>
+<a href="https://nextjs.org/docs" target="_blank"><img src="https://skillicons.dev/icons?i=next" /></a><br>
+<a href="https://nodejs.org/en/docs" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a><br>
+<a href="https://supabase.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" /></a><br>
+<a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" /></a><br>
 </p>
 
 # Environement 
