@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/Joal1291/Joal1291/blob/main/3.gif" alt="Sublime's custom image" >
+  <img src="https://github.com/Joal1291/Joal1291/blob/main/3.gif" alt="Sublime's custom image" > 
 </p>
 <!-- <p style="color:white">Yes I really love matrix that's one of my fav triolgy of all time</p> -->
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJoal1291&label=Visitors&labelColor=%23d9e3f0&countColor=%23555555&style=plastic" alt="Sublime's custom image" >
 
-# Languages, FrameWorks, Databases
+# Languages, FrameWorks, Databases 
 <br>
 <p align="center">
 <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
