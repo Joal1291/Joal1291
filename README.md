@@ -18,6 +18,7 @@
 <a href="https://nodejs.org/en/docs" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
 <a href="https://supabase.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" /></a>
 <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+<!-- <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" /></a> -->
 </p>
 
 # Environement 
@@ -27,6 +28,8 @@
   <a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /</a>
   <a href="https://www.jetbrains.com/help/idea/getting-started.html" target="_blank"><img src="https://skillicons.dev/icons?i=idea" /></a>
   <a href="https://learning.postman.com/docs/introduction/overview/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" /></a>
+  <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
 <!--  <img src="" alt="Sublime's custom image" >
  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJoal1291&label=Visitors&labelColor=%23d9e3f0&countColor=%23555555&style=plastic" alt="Sublime's custom image" >
  <img src="" alt="Sublime's custom image" > -->
